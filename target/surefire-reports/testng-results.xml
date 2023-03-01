@@ -2,18 +2,18 @@
 <testng-results total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-28T22:16:24Z" name="Suite" finished-at="2023-02-28T22:16:28Z" duration-ms="3231">
+  <suite started-at="2023-03-01T16:34:09Z" name="Suite" finished-at="2023-03-01T16:34:23Z" duration-ms="14014">
     <groups>
     </groups>
-    <test started-at="2023-02-28T22:16:24Z" name="Test" finished-at="2023-02-28T22:16:28Z" duration-ms="3231">
+    <test started-at="2023-03-01T16:34:09Z" name="Test" finished-at="2023-03-01T16:34:23Z" duration-ms="14014">
       <class name="GenericPackage.BaseClass">
-        <test-method is-config="true" signature="setupBrowser()" started-at="2023-02-28T22:16:25Z" name="setupBrowser" finished-at="2023-02-28T22:16:27Z" duration-ms="2150" status="PASS">
+        <test-method is-config="true" signature="setupBrowser()" started-at="2023-03-01T16:34:09Z" name="setupBrowser" finished-at="2023-03-01T16:34:12Z" duration-ms="2164" status="PASS">
         </test-method>
-        <test-method signature="navigateURL()" started-at="2023-02-28T22:16:27Z" name="navigateURL" finished-at="2023-02-28T22:16:27Z" duration-ms="833" status="PASS">
+        <test-method signature="navigateURL()" started-at="2023-03-01T16:34:12Z" name="navigateURL" finished-at="2023-03-01T16:34:23Z" duration-ms="11590" status="PASS">
         </test-method>
-        <test-method signature="verifyTitle()" started-at="2023-02-28T22:16:27Z" name="verifyTitle" finished-at="2023-02-28T22:16:28Z" duration-ms="12" status="PASS">
+        <test-method signature="verifyTitle()" started-at="2023-03-01T16:34:23Z" name="verifyTitle" finished-at="2023-03-01T16:34:23Z" duration-ms="8" status="PASS">
         </test-method>
-        <test-method is-config="true" signature="tearDown()" started-at="2023-02-28T22:16:28Z" name="tearDown" finished-at="2023-02-28T22:16:28Z" duration-ms="226" status="PASS">
+        <test-method is-config="true" signature="tearDown()" started-at="2023-03-01T16:34:23Z" name="tearDown" finished-at="2023-03-01T16:34:23Z" duration-ms="245" status="PASS">
         </test-method>
       </class>
     </test>
