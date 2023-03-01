@@ -1,0 +1,3 @@
+testNGFramework\tests\BaseTest.class
+testNGFramework\tests\LoginToHome.class
+testNGFramework\tests\VerifyUserLogins.class
